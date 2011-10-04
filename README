@@ -1,6 +1,12 @@
-Installation:
+Installation (Ubuntu):
 
     git clone git://github.com/ajw/dotvim.git ~/.vim
+
+Installation (Windows):
+
+    git clone git://github.com/ajw/dotvim.git C:\Documents and Settings\wildea\vimfiles
+    cp .vimrc ../_vimrc
+    cp .gvimrc ../_gvimrc
 
 Create symlinks:
 
