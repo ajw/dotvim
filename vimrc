@@ -6,6 +6,7 @@ set expandtab
 set shiftwidth=2
 set softtabstop=2
 set autoindent
+set number
 
 let g:highlighting = 0
 function! Highlighting()
