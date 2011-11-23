@@ -7,6 +7,7 @@ set shiftwidth=2
 set softtabstop=2
 set autoindent
 set number
+source $VIMRUNTIME/mswin.vim
 
 let g:highlighting = 0
 function! Highlighting()
